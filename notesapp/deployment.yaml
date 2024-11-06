@@ -15,6 +15,6 @@ spec:
         spec: 
             containers:
             - name: dep-cont
-              image: chethanbrp/my-note-app:latest
+              image: chethanbrp/mynote-app:latest
               ports:
               - containerPort: 8000
